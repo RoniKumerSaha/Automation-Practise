@@ -1,0 +1,4 @@
+[INFO ] 2021-08-21 15:49:37.698 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-08-21 15:49:45.129 MyWebdriverEventListener:40 -> Navigate 2 http://automationpractice.com/index.php
+[INFO ] 2021-08-21 15:51:47.743 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-08-21 15:51:55.011 MyWebdriverEventListener:40 -> Navigate 2 http://automationpractice.com/index.php

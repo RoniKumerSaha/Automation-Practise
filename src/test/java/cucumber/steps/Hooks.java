@@ -1,10 +1,10 @@
-package steps;
+package cucumber.steps;
 
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
-import utils.DriverSetup;
+import cucumber.DriverSetup;
 
-public class Hooks {
+public class Hooks{
 
     @Before
     public void setUPDriver(){
