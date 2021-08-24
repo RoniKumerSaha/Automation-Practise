@@ -3,3 +3,4 @@ target/
 /twin_web_api.iml
 logs/
 output/
+logs/Test-log.log
