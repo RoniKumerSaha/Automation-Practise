@@ -1,4 +1,4 @@
-package utils;
+package automation.utils;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -71,23 +71,23 @@ public class MyWebdriverEventListener implements WebDriverEventListener {
 
     @Override
     public void beforeFindBy(By by, WebElement webElement, WebDriver webDriver) {
-        logger.info("Locating: " + webElement.getText());
 
     }
 
     @Override
     public void afterFindBy(By by, WebElement webElement, WebDriver webDriver) {
+        logger.info("Located: " + webElement.getText());
 
     }
 
     @Override
     public void beforeClickOn(WebElement webElement, WebDriver webDriver) {
-        logger.info("Clicking: " + webElement.getText());
 
     }
 
     @Override
     public void afterClickOn(WebElement webElement, WebDriver webDriver) {
+        logger.info("Clicked on: " + (webElement.toString().split("->"))[1]);
 
     }
 

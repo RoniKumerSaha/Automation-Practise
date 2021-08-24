@@ -1,20 +1,21 @@
 package cucumber.steps;
 
-import cucumber.api.java.After;
-import cucumber.api.java.Before;
-import cucumber.DriverSetup;
+import automation.utils.DriverSetup;
+import cucumber.api.Scenario;
+import cucumber.api.java.*;
 
 public class Hooks{
 
     @Before
     public void setUPDriver(){
-        System.out.println("Before");
         DriverSetup.setUpDriver();
     }
 
     @After
-    public void closeDriver(){
-        System.out.println("After");
+    public void closeDriver(Scenario scenario){
+        if(scenario.isFailed()){
+            DriverSetup.takeScreenShot(scenario);
+        }
         DriverSetup.closeDriver();
     }
 }

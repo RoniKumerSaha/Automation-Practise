@@ -1,4 +1,4 @@
-package utils;
+package automation.utils;
 
 public class Browser {
     public static String DRIVER_PATH = System.getProperty("user.dir") + "/src/main/resources/chromedriver";

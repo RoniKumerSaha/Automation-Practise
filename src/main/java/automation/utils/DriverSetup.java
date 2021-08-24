@@ -1,17 +1,24 @@
-package cucumber;
+package automation.utils;
 
+import automation.pages.HomePage;
+import cucumber.api.Scenario;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
-import utils.Browser;
-import utils.MyWebdriverEventListener;
+import automation.utils.Browser;
+import automation.utils.MyWebdriverEventListener;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 
 public class DriverSetup {
-    private static WebDriver driver;
+    public static WebDriver driver;
+    //public static HomePage homePage;
 
     public static void setUpDriver(){
         System.setProperty("webdriver.chrome.driver", Browser.DRIVER_PATH);
@@ -24,6 +31,7 @@ public class DriverSetup {
         driver.manage().timeouts().implicitlyWait(Browser.TIMEOUT, TimeUnit.SECONDS);
         driver = setEventListener(driver);
         driver.get(Browser.URL);
+       // homePage = new HomePage(driver);
     }
 
     public static WebDriver setEventListener(WebDriver driver){
@@ -31,6 +39,16 @@ public class DriverSetup {
         MyWebdriverEventListener myWebdriverEventListener = new MyWebdriverEventListener();
         eventFiringWebDriver.register(myWebdriverEventListener);
         return eventFiringWebDriver;
+    }
+
+    public static void takeScreenShot(Scenario scenario){
+            TakesScreenshot camera = (TakesScreenshot)driver;
+            File screenshot = camera.getScreenshotAs(OutputType.FILE);
+            try {
+                com.google.common.io.Files.move(screenshot, new File("output/"+ scenario.getName()+".png"));
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
     }
 
     public static void closeDriver(){
