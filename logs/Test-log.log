@@ -1,0 +1,5 @@
+[INFO ] 2021-08-24 11:36:43.455 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-08-24 11:38:37.767 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-08-24 11:38:45.546 MyWebdriverEventListener:79 -> Located: Contact us
+[INFO ] 2021-08-24 11:38:45.601 MyWebdriverEventListener:79 -> Located: Contact us
+[INFO ] 2021-08-24 11:38:47.084 MyWebdriverEventListener:90 -> Clicked on:  xpath: (//a[@title='Contact Us'])]

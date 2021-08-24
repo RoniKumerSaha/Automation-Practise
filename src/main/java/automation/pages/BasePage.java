@@ -19,18 +19,18 @@ public class BasePage extends DriverSetup{
         return driver.getTitle();
     }
 
-    public void waitFor(WebElement element, int sec){
+    public void waitFor(WebElement what, int howMuch){
         FluentWait wait = new FluentWait(driver)
-                .withTimeout(Duration.ofSeconds(sec))
+                .withTimeout(Duration.ofSeconds(howMuch))
                 .pollingEvery(Duration.ofMillis(500))
                 .ignoring(NoSuchElementException.class,NullPointerException.class);
-        wait.until(ExpectedConditions.visibilityOf(element));
+        wait.until(ExpectedConditions.visibilityOf(what));
     }
-    public void waitFor(WebElement element){
+    public void waitFor(WebElement what){
         FluentWait wait = new FluentWait(driver)
                 .withTimeout(Duration.ofSeconds(Browser.TIMEOUT))
                 .pollingEvery(Duration.ofMillis(500))
                 .ignoring(NoSuchElementException.class,NullPointerException.class);
-        wait.until(ExpectedConditions.visibilityOf(element));
+        wait.until(ExpectedConditions.visibilityOf(what));
     }
 }
