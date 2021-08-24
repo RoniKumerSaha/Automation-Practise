@@ -1,5 +1,5 @@
 .idea/
 target/
 /twin_web_api.iml
-logs/Test-log.log
-output/User can visit Home page.png
+logs/
+output/
