@@ -1,6 +1,7 @@
 package automation.pages;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
@@ -17,6 +18,15 @@ public class HomePage extends BasePage {
 
     @FindBy(xpath = "(//a[@title='T-shirts'])[2]")
     private WebElement tShirtsCategory;
+
+    @FindBy(xpath = "(//a[@class='ui-slider-handle ui-state-default ui-corner-all'])[1]")
+    WebElement slider;
+
+    @FindBy(id ="layered_price_range")
+    WebElement valueRange;
+
+    @FindBy(xpath = "//li[@class='twitter']")
+    public WebElement twitterLink;
 
     public boolean categoryVisible(){
         return (womenCategory.isDisplayed() && dressesCategory.isDisplayed() && tShirtsCategory.isDisplayed());
@@ -38,6 +48,16 @@ public class HomePage extends BasePage {
 
     public void selectProduct(String product){
         driver.findElement(By.xpath("(//a[@title='" + product + "'])[2]")).click();
+    }
+
+    public void increaseValue(){
+        while (!valueRange.getText().contains("$16.50 - $17.00")){
+            slider.sendKeys(Keys.ARROW_RIGHT);
+        }
+    }
+
+    public void clickLink(){
+        twitterLink.click();
     }
 
 }

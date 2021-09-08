@@ -3,3 +3,621 @@
 [INFO ] 2021-08-24 11:38:45.546 MyWebdriverEventListener:79 -> Located: Contact us
 [INFO ] 2021-08-24 11:38:45.601 MyWebdriverEventListener:79 -> Located: Contact us
 [INFO ] 2021-08-24 11:38:47.084 MyWebdriverEventListener:90 -> Clicked on:  xpath: (//a[@title='Contact Us'])]
+[INFO ] 2021-08-24 20:47:36.638 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-08-24 20:48:31.622 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-08-24 20:48:40.375 MyWebdriverEventListener:79 -> Located: WOMEN
+[INFO ] 2021-08-24 20:48:40.435 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-08-24 20:51:40.560 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-08-24 20:53:34.555 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-08-24 20:53:43.013 MyWebdriverEventListener:79 -> Located: WOMEN
+[INFO ] 2021-08-24 20:53:43.076 MyWebdriverEventListener:79 -> Located: DRESSES
+[INFO ] 2021-08-24 20:53:43.119 MyWebdriverEventListener:79 -> Located: T-SHIRTS
+[INFO ] 2021-08-24 21:11:11.377 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-08-24 21:11:21.650 MyWebdriverEventListener:79 -> Located: WOMEN
+[INFO ] 2021-08-24 21:11:25.124 MyWebdriverEventListener:90 -> Clicked on:  xpath: //a[@title='Women']]
+[INFO ] 2021-08-24 21:11:25.149 MyWebdriverEventListener:79 -> Located: Faded Short Sleeve T-shirts
+[INFO ] 2021-08-24 21:11:27.367 MyWebdriverEventListener:90 -> Clicked on:  xpath: (//a[@title='Faded Short Sleeve T-shirts'])[2]]
+[INFO ] 2021-08-24 21:11:27.391 MyWebdriverEventListener:79 -> Located: Faded Short Sleeve T-shirts
+[INFO ] 2021-08-24 21:11:28.556 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-08-24 21:11:36.935 MyWebdriverEventListener:79 -> Located: DRESSES
+[INFO ] 2021-08-24 21:11:39.902 MyWebdriverEventListener:90 -> Clicked on:  xpath: (//a[@title='Dresses'])[2]]
+[INFO ] 2021-08-24 21:11:39.926 MyWebdriverEventListener:79 -> Located: Printed Dress
+[INFO ] 2021-08-24 21:11:42.078 MyWebdriverEventListener:90 -> Clicked on:  xpath: (//a[@title='Printed Dress'])[2]]
+[INFO ] 2021-08-24 21:11:42.100 MyWebdriverEventListener:79 -> Located: Printed Dress
+[INFO ] 2021-08-24 21:11:43.128 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-08-24 21:11:51.136 MyWebdriverEventListener:79 -> Located: T-SHIRTS
+[INFO ] 2021-08-24 21:11:55.968 MyWebdriverEventListener:90 -> Clicked on:  xpath: (//a[@title='T-shirts'])[2]]
+[INFO ] 2021-08-24 21:11:55.991 MyWebdriverEventListener:79 -> Located: Faded Short Sleeve T-shirts
+[INFO ] 2021-08-24 21:12:02.687 MyWebdriverEventListener:90 -> Clicked on:  xpath: (//a[@title='Faded Short Sleeve T-shirts'])[2]]
+[INFO ] 2021-08-24 21:12:02.709 MyWebdriverEventListener:79 -> Located: Faded Short Sleeve T-shirts
+[INFO ] 2021-08-27 11:37:35.980 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-08-27 11:37:51.063 MyWebdriverEventListener:79 -> Located: WOMEN
+[INFO ] 2021-08-27 11:38:01.112 MyWebdriverEventListener:90 -> Clicked on:  xpath: //a[@title='Women']]
+[INFO ] 2021-08-27 11:38:01.137 MyWebdriverEventListener:79 -> Located: Faded Short Sleeve T-shirts
+[INFO ] 2021-08-27 11:38:08.740 MyWebdriverEventListener:90 -> Clicked on:  xpath: (//a[@title='Faded Short Sleeve T-shirts'])[2]]
+[INFO ] 2021-08-27 11:38:08.764 MyWebdriverEventListener:79 -> Located: Faded Short Sleeve T-shirts
+[INFO ] 2021-08-27 11:38:10.339 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-08-27 11:38:24.446 MyWebdriverEventListener:79 -> Located: DRESSES
+[INFO ] 2021-08-27 11:38:33.017 MyWebdriverEventListener:90 -> Clicked on:  xpath: (//a[@title='Dresses'])[2]]
+[INFO ] 2021-08-27 11:38:33.041 MyWebdriverEventListener:79 -> Located: Printed Dress
+[INFO ] 2021-08-27 11:38:40.966 MyWebdriverEventListener:90 -> Clicked on:  xpath: (//a[@title='Printed Dress'])[2]]
+[INFO ] 2021-08-27 11:38:40.991 MyWebdriverEventListener:79 -> Located: Printed Dress
+[INFO ] 2021-08-27 11:38:42.196 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-08-27 11:38:58.900 MyWebdriverEventListener:79 -> Located: T-SHIRTS
+[INFO ] 2021-08-27 11:39:06.791 MyWebdriverEventListener:90 -> Clicked on:  xpath: (//a[@title='T-shirts'])[2]]
+[INFO ] 2021-08-27 11:39:06.816 MyWebdriverEventListener:79 -> Located: Faded Short Sleeve T-shirts
+[INFO ] 2021-08-27 11:39:14.366 MyWebdriverEventListener:90 -> Clicked on:  xpath: (//a[@title='Faded Short Sleeve T-shirts'])[2]]
+[INFO ] 2021-08-27 11:39:14.389 MyWebdriverEventListener:79 -> Located: Faded Short Sleeve T-shirts
+[INFO ] 2021-09-04 21:50:16.559 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-04 21:50:40.993 MyWebdriverEventListener:79 -> Located: T-SHIRTS
+[INFO ] 2021-09-04 21:50:48.195 MyWebdriverEventListener:90 -> Clicked on:  xpath: (//a[@title='T-shirts'])[2]]
+[INFO ] 2021-09-04 21:50:48.226 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:51:32.316 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-04 21:52:00.153 MyWebdriverEventListener:79 -> Located: T-SHIRTS
+[INFO ] 2021-09-04 21:52:49.088 MyWebdriverEventListener:90 -> Clicked on:  xpath: (//a[@title='T-shirts'])[2]]
+[INFO ] 2021-09-04 21:52:49.118 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:52:49.200 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:52:49.254 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:52:49.295 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:52:49.338 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:52:49.379 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:52:49.419 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:52:49.459 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:52:49.501 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:52:49.541 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:52:49.581 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:53:35.046 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-04 21:55:17.810 MyWebdriverEventListener:79 -> Located: T-SHIRTS
+[INFO ] 2021-09-04 21:55:18.341 MyWebdriverEventListener:90 -> Clicked on:  xpath: (//a[@title='T-shirts'])[2]]
+[INFO ] 2021-09-04 21:55:32.789 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:55:33.875 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:55:34.933 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:55:35.979 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:55:37.024 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:55:38.072 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:55:39.114 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:55:40.161 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:55:41.207 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:55:42.258 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:55:43.301 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:58:12.079 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-04 21:58:32.249 MyWebdriverEventListener:79 -> Located: T-SHIRTS
+[INFO ] 2021-09-04 21:58:43.955 MyWebdriverEventListener:90 -> Clicked on:  xpath: (//a[@title='T-shirts'])[2]]
+[INFO ] 2021-09-04 21:58:43.979 MyWebdriverEventListener:79 -> Located: $16.00 - $17.00
+[INFO ] 2021-09-04 21:58:44.008 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:58:45.086 MyWebdriverEventListener:79 -> Located: $16.01 - $17.00
+[INFO ] 2021-09-04 21:58:45.112 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:58:46.168 MyWebdriverEventListener:79 -> Located: $16.01 - $17.00
+[INFO ] 2021-09-04 21:58:46.189 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:58:47.234 MyWebdriverEventListener:79 -> Located: $16.02 - $17.00
+[INFO ] 2021-09-04 21:58:47.255 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:58:48.299 MyWebdriverEventListener:79 -> Located: $16.03 - $17.00
+[INFO ] 2021-09-04 21:58:48.319 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:58:49.364 MyWebdriverEventListener:79 -> Located: $16.03 - $17.00
+[INFO ] 2021-09-04 21:58:49.384 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:58:50.427 MyWebdriverEventListener:79 -> Located: $16.04 - $17.00
+[INFO ] 2021-09-04 21:58:50.446 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:58:51.491 MyWebdriverEventListener:79 -> Located: $16.04 - $17.00
+[INFO ] 2021-09-04 21:58:51.512 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:58:52.559 MyWebdriverEventListener:79 -> Located: $16.05 - $17.00
+[INFO ] 2021-09-04 21:58:52.579 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:58:53.622 MyWebdriverEventListener:79 -> Located: $16.05 - $17.00
+[INFO ] 2021-09-04 21:58:53.641 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:58:54.694 MyWebdriverEventListener:79 -> Located: $16.06 - $17.00
+[INFO ] 2021-09-04 21:58:54.713 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:58:55.755 MyWebdriverEventListener:79 -> Located: $16.06 - $17.00
+[INFO ] 2021-09-04 21:58:55.774 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:58:56.818 MyWebdriverEventListener:79 -> Located: $16.07 - $17.00
+[INFO ] 2021-09-04 21:58:56.836 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:58:57.877 MyWebdriverEventListener:79 -> Located: $16.07 - $17.00
+[INFO ] 2021-09-04 21:58:57.896 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:58:58.940 MyWebdriverEventListener:79 -> Located: $16.08 - $17.00
+[INFO ] 2021-09-04 21:58:58.958 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:00.000 MyWebdriverEventListener:79 -> Located: $16.08 - $17.00
+[INFO ] 2021-09-04 21:59:00.019 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:01.066 MyWebdriverEventListener:79 -> Located: $16.09 - $17.00
+[INFO ] 2021-09-04 21:59:01.084 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:02.125 MyWebdriverEventListener:79 -> Located: $16.09 - $17.00
+[INFO ] 2021-09-04 21:59:02.144 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:03.187 MyWebdriverEventListener:79 -> Located: $16.10 - $17.00
+[INFO ] 2021-09-04 21:59:03.206 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:04.247 MyWebdriverEventListener:79 -> Located: $16.10 - $17.00
+[INFO ] 2021-09-04 21:59:04.266 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:05.312 MyWebdriverEventListener:79 -> Located: $16.11 - $17.00
+[INFO ] 2021-09-04 21:59:05.331 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:06.375 MyWebdriverEventListener:79 -> Located: $16.11 - $17.00
+[INFO ] 2021-09-04 21:59:06.394 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:07.435 MyWebdriverEventListener:79 -> Located: $16.12 - $17.00
+[INFO ] 2021-09-04 21:59:07.454 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:08.495 MyWebdriverEventListener:79 -> Located: $16.12 - $17.00
+[INFO ] 2021-09-04 21:59:08.514 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:09.555 MyWebdriverEventListener:79 -> Located: $16.13 - $17.00
+[INFO ] 2021-09-04 21:59:09.573 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:10.614 MyWebdriverEventListener:79 -> Located: $16.13 - $17.00
+[INFO ] 2021-09-04 21:59:10.632 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:11.674 MyWebdriverEventListener:79 -> Located: $16.14 - $17.00
+[INFO ] 2021-09-04 21:59:11.692 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:12.736 MyWebdriverEventListener:79 -> Located: $16.14 - $17.00
+[INFO ] 2021-09-04 21:59:12.755 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:13.796 MyWebdriverEventListener:79 -> Located: $16.15 - $17.00
+[INFO ] 2021-09-04 21:59:13.815 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:14.859 MyWebdriverEventListener:79 -> Located: $16.15 - $17.00
+[INFO ] 2021-09-04 21:59:14.876 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:15.916 MyWebdriverEventListener:79 -> Located: $16.16 - $17.00
+[INFO ] 2021-09-04 21:59:15.934 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:16.976 MyWebdriverEventListener:79 -> Located: $16.16 - $17.00
+[INFO ] 2021-09-04 21:59:16.994 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:18.036 MyWebdriverEventListener:79 -> Located: $16.17 - $17.00
+[INFO ] 2021-09-04 21:59:18.054 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:19.104 MyWebdriverEventListener:79 -> Located: $16.17 - $17.00
+[INFO ] 2021-09-04 21:59:19.122 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:20.164 MyWebdriverEventListener:79 -> Located: $16.18 - $17.00
+[INFO ] 2021-09-04 21:59:20.183 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 21:59:52.799 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-04 22:01:38.409 MyWebdriverEventListener:79 -> Located: T-SHIRTS
+[INFO ] 2021-09-04 22:02:17.630 MyWebdriverEventListener:90 -> Clicked on:  xpath: (//a[@title='T-shirts'])[2]]
+[INFO ] 2021-09-04 22:02:17.655 MyWebdriverEventListener:79 -> Located: $16.00 - $17.00
+[INFO ] 2021-09-04 22:02:17.686 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:17.855 MyWebdriverEventListener:79 -> Located: $16.01 - $17.00
+[INFO ] 2021-09-04 22:02:17.880 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:18.036 MyWebdriverEventListener:79 -> Located: $16.01 - $17.00
+[INFO ] 2021-09-04 22:02:18.056 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:18.204 MyWebdriverEventListener:79 -> Located: $16.02 - $17.00
+[INFO ] 2021-09-04 22:02:18.225 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:18.370 MyWebdriverEventListener:79 -> Located: $16.02 - $17.00
+[INFO ] 2021-09-04 22:02:18.390 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:18.536 MyWebdriverEventListener:79 -> Located: $16.03 - $17.00
+[INFO ] 2021-09-04 22:02:18.555 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:18.700 MyWebdriverEventListener:79 -> Located: $16.03 - $17.00
+[INFO ] 2021-09-04 22:02:18.721 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:18.867 MyWebdriverEventListener:79 -> Located: $16.04 - $17.00
+[INFO ] 2021-09-04 22:02:18.887 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:19.031 MyWebdriverEventListener:79 -> Located: $16.04 - $17.00
+[INFO ] 2021-09-04 22:02:19.051 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:19.197 MyWebdriverEventListener:79 -> Located: $16.05 - $17.00
+[INFO ] 2021-09-04 22:02:19.217 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:19.365 MyWebdriverEventListener:79 -> Located: $16.05 - $17.00
+[INFO ] 2021-09-04 22:02:19.384 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:19.529 MyWebdriverEventListener:79 -> Located: $16.06 - $17.00
+[INFO ] 2021-09-04 22:02:19.549 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:19.691 MyWebdriverEventListener:79 -> Located: $16.06 - $17.00
+[INFO ] 2021-09-04 22:02:19.711 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:19.855 MyWebdriverEventListener:79 -> Located: $16.07 - $17.00
+[INFO ] 2021-09-04 22:02:19.873 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:20.017 MyWebdriverEventListener:79 -> Located: $16.07 - $17.00
+[INFO ] 2021-09-04 22:02:20.036 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:20.179 MyWebdriverEventListener:79 -> Located: $16.08 - $17.00
+[INFO ] 2021-09-04 22:02:20.199 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:20.342 MyWebdriverEventListener:79 -> Located: $16.08 - $17.00
+[INFO ] 2021-09-04 22:02:20.361 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:20.503 MyWebdriverEventListener:79 -> Located: $16.09 - $17.00
+[INFO ] 2021-09-04 22:02:20.523 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:20.663 MyWebdriverEventListener:79 -> Located: $16.09 - $17.00
+[INFO ] 2021-09-04 22:02:20.681 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:20.824 MyWebdriverEventListener:79 -> Located: $16.10 - $17.00
+[INFO ] 2021-09-04 22:02:20.843 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:20.980 MyWebdriverEventListener:79 -> Located: $16.10 - $17.00
+[INFO ] 2021-09-04 22:02:20.999 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:21.142 MyWebdriverEventListener:79 -> Located: $16.11 - $17.00
+[INFO ] 2021-09-04 22:02:21.161 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:21.304 MyWebdriverEventListener:79 -> Located: $16.11 - $17.00
+[INFO ] 2021-09-04 22:02:21.323 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:21.465 MyWebdriverEventListener:79 -> Located: $16.12 - $17.00
+[INFO ] 2021-09-04 22:02:21.483 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:21.624 MyWebdriverEventListener:79 -> Located: $16.12 - $17.00
+[INFO ] 2021-09-04 22:02:21.643 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:21.788 MyWebdriverEventListener:79 -> Located: $16.13 - $17.00
+[INFO ] 2021-09-04 22:02:21.807 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:21.950 MyWebdriverEventListener:79 -> Located: $16.13 - $17.00
+[INFO ] 2021-09-04 22:02:21.969 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:22.117 MyWebdriverEventListener:79 -> Located: $16.14 - $17.00
+[INFO ] 2021-09-04 22:02:22.136 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:22.278 MyWebdriverEventListener:79 -> Located: $16.14 - $17.00
+[INFO ] 2021-09-04 22:02:22.297 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:22.438 MyWebdriverEventListener:79 -> Located: $16.15 - $17.00
+[INFO ] 2021-09-04 22:02:22.456 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:22.598 MyWebdriverEventListener:79 -> Located: $16.15 - $17.00
+[INFO ] 2021-09-04 22:02:22.617 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:22.760 MyWebdriverEventListener:79 -> Located: $16.16 - $17.00
+[INFO ] 2021-09-04 22:02:22.778 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:22.920 MyWebdriverEventListener:79 -> Located: $16.16 - $17.00
+[INFO ] 2021-09-04 22:02:22.938 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:23.081 MyWebdriverEventListener:79 -> Located: $16.17 - $17.00
+[INFO ] 2021-09-04 22:02:23.100 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:23.240 MyWebdriverEventListener:79 -> Located: $16.17 - $17.00
+[INFO ] 2021-09-04 22:02:23.259 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:23.400 MyWebdriverEventListener:79 -> Located: $16.18 - $17.00
+[INFO ] 2021-09-04 22:02:23.419 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:23.560 MyWebdriverEventListener:79 -> Located: $16.18 - $17.00
+[INFO ] 2021-09-04 22:02:23.580 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:23.723 MyWebdriverEventListener:79 -> Located: $16.19 - $17.00
+[INFO ] 2021-09-04 22:02:23.743 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:23.881 MyWebdriverEventListener:79 -> Located: $16.19 - $17.00
+[INFO ] 2021-09-04 22:02:23.899 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:24.042 MyWebdriverEventListener:79 -> Located: $16.20 - $17.00
+[INFO ] 2021-09-04 22:02:24.060 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:24.203 MyWebdriverEventListener:79 -> Located: $16.20 - $17.00
+[INFO ] 2021-09-04 22:02:24.221 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:24.365 MyWebdriverEventListener:79 -> Located: $16.21 - $17.00
+[INFO ] 2021-09-04 22:02:24.384 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:24.529 MyWebdriverEventListener:79 -> Located: $16.21 - $17.00
+[INFO ] 2021-09-04 22:02:24.550 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:24.693 MyWebdriverEventListener:79 -> Located: $16.22 - $17.00
+[INFO ] 2021-09-04 22:02:24.712 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:24.854 MyWebdriverEventListener:79 -> Located: $16.22 - $17.00
+[INFO ] 2021-09-04 22:02:24.871 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:25.012 MyWebdriverEventListener:79 -> Located: $16.23 - $17.00
+[INFO ] 2021-09-04 22:02:25.030 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:25.172 MyWebdriverEventListener:79 -> Located: $16.23 - $17.00
+[INFO ] 2021-09-04 22:02:25.191 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:25.337 MyWebdriverEventListener:79 -> Located: $16.24 - $17.00
+[INFO ] 2021-09-04 22:02:25.354 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:25.493 MyWebdriverEventListener:79 -> Located: $16.24 - $17.00
+[INFO ] 2021-09-04 22:02:25.512 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:25.657 MyWebdriverEventListener:79 -> Located: $16.25 - $17.00
+[INFO ] 2021-09-04 22:02:25.677 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:25.820 MyWebdriverEventListener:79 -> Located: $16.25 - $17.00
+[INFO ] 2021-09-04 22:02:25.838 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:25.980 MyWebdriverEventListener:79 -> Located: $16.26 - $17.00
+[INFO ] 2021-09-04 22:02:25.997 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:26.140 MyWebdriverEventListener:79 -> Located: $16.26 - $17.00
+[INFO ] 2021-09-04 22:02:26.157 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:26.298 MyWebdriverEventListener:79 -> Located: $16.27 - $17.00
+[INFO ] 2021-09-04 22:02:26.316 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:26.459 MyWebdriverEventListener:79 -> Located: $16.27 - $17.00
+[INFO ] 2021-09-04 22:02:26.477 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:26.620 MyWebdriverEventListener:79 -> Located: $16.28 - $17.00
+[INFO ] 2021-09-04 22:02:26.638 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:26.780 MyWebdriverEventListener:79 -> Located: $16.28 - $17.00
+[INFO ] 2021-09-04 22:02:26.797 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:26.940 MyWebdriverEventListener:79 -> Located: $16.29 - $17.00
+[INFO ] 2021-09-04 22:02:26.958 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:27.100 MyWebdriverEventListener:79 -> Located: $16.29 - $17.00
+[INFO ] 2021-09-04 22:02:27.117 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:27.264 MyWebdriverEventListener:79 -> Located: $16.30 - $17.00
+[INFO ] 2021-09-04 22:02:27.282 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:27.424 MyWebdriverEventListener:79 -> Located: $16.30 - $17.00
+[INFO ] 2021-09-04 22:02:27.442 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:27.585 MyWebdriverEventListener:79 -> Located: $16.31 - $17.00
+[INFO ] 2021-09-04 22:02:27.602 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:27.740 MyWebdriverEventListener:79 -> Located: $16.31 - $17.00
+[INFO ] 2021-09-04 22:02:27.758 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:27.900 MyWebdriverEventListener:79 -> Located: $16.32 - $17.00
+[INFO ] 2021-09-04 22:02:27.919 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:28.060 MyWebdriverEventListener:79 -> Located: $16.32 - $17.00
+[INFO ] 2021-09-04 22:02:28.078 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:28.219 MyWebdriverEventListener:79 -> Located: $16.33 - $17.00
+[INFO ] 2021-09-04 22:02:28.238 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:28.380 MyWebdriverEventListener:79 -> Located: $16.33 - $17.00
+[INFO ] 2021-09-04 22:02:28.397 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:28.539 MyWebdriverEventListener:79 -> Located: $16.34 - $17.00
+[INFO ] 2021-09-04 22:02:28.556 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:28.698 MyWebdriverEventListener:79 -> Located: $16.34 - $17.00
+[INFO ] 2021-09-04 22:02:28.716 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:28.858 MyWebdriverEventListener:79 -> Located: $16.35 - $17.00
+[INFO ] 2021-09-04 22:02:28.875 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:29.019 MyWebdriverEventListener:79 -> Located: $16.35 - $17.00
+[INFO ] 2021-09-04 22:02:29.037 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:29.182 MyWebdriverEventListener:79 -> Located: $16.36 - $17.00
+[INFO ] 2021-09-04 22:02:29.200 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:29.340 MyWebdriverEventListener:79 -> Located: $16.36 - $17.00
+[INFO ] 2021-09-04 22:02:29.358 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:29.496 MyWebdriverEventListener:79 -> Located: $16.37 - $17.00
+[INFO ] 2021-09-04 22:02:29.514 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:29.653 MyWebdriverEventListener:79 -> Located: $16.37 - $17.00
+[INFO ] 2021-09-04 22:02:29.671 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:29.813 MyWebdriverEventListener:79 -> Located: $16.38 - $17.00
+[INFO ] 2021-09-04 22:02:29.831 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:29.974 MyWebdriverEventListener:79 -> Located: $16.38 - $17.00
+[INFO ] 2021-09-04 22:02:29.992 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:30.136 MyWebdriverEventListener:79 -> Located: $16.39 - $17.00
+[INFO ] 2021-09-04 22:02:30.154 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:30.295 MyWebdriverEventListener:79 -> Located: $16.39 - $17.00
+[INFO ] 2021-09-04 22:02:30.313 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:30.454 MyWebdriverEventListener:79 -> Located: $16.40 - $17.00
+[INFO ] 2021-09-04 22:02:30.471 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:30.613 MyWebdriverEventListener:79 -> Located: $16.40 - $17.00
+[INFO ] 2021-09-04 22:02:30.631 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:30.770 MyWebdriverEventListener:79 -> Located: $16.41 - $17.00
+[INFO ] 2021-09-04 22:02:30.787 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:30.930 MyWebdriverEventListener:79 -> Located: $16.41 - $17.00
+[INFO ] 2021-09-04 22:02:30.949 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:31.091 MyWebdriverEventListener:79 -> Located: $16.42 - $17.00
+[INFO ] 2021-09-04 22:02:31.109 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:31.251 MyWebdriverEventListener:79 -> Located: $16.42 - $17.00
+[INFO ] 2021-09-04 22:02:31.268 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:31.411 MyWebdriverEventListener:79 -> Located: $16.43 - $17.00
+[INFO ] 2021-09-04 22:02:31.429 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:31.570 MyWebdriverEventListener:79 -> Located: $16.43 - $17.00
+[INFO ] 2021-09-04 22:02:31.586 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:31.730 MyWebdriverEventListener:79 -> Located: $16.44 - $17.00
+[INFO ] 2021-09-04 22:02:31.746 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:31.887 MyWebdriverEventListener:79 -> Located: $16.44 - $17.00
+[INFO ] 2021-09-04 22:02:31.905 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:32.048 MyWebdriverEventListener:79 -> Located: $16.45 - $17.00
+[INFO ] 2021-09-04 22:02:32.064 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:32.203 MyWebdriverEventListener:79 -> Located: $16.45 - $17.00
+[INFO ] 2021-09-04 22:02:32.220 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:32.364 MyWebdriverEventListener:79 -> Located: $16.46 - $17.00
+[INFO ] 2021-09-04 22:02:32.383 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:32.522 MyWebdriverEventListener:79 -> Located: $16.46 - $17.00
+[INFO ] 2021-09-04 22:02:32.540 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:32.681 MyWebdriverEventListener:79 -> Located: $16.47 - $17.00
+[INFO ] 2021-09-04 22:02:32.700 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:32.840 MyWebdriverEventListener:79 -> Located: $16.47 - $17.00
+[INFO ] 2021-09-04 22:02:32.857 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:33.001 MyWebdriverEventListener:79 -> Located: $16.48 - $17.00
+[INFO ] 2021-09-04 22:02:33.019 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:33.161 MyWebdriverEventListener:79 -> Located: $16.48 - $17.00
+[INFO ] 2021-09-04 22:02:33.178 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:33.320 MyWebdriverEventListener:79 -> Located: $16.49 - $17.00
+[INFO ] 2021-09-04 22:02:33.338 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:33.480 MyWebdriverEventListener:79 -> Located: $16.49 - $17.00
+[INFO ] 2021-09-04 22:02:33.498 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:02:33.640 MyWebdriverEventListener:79 -> Located: $16.50 - $17.00
+[INFO ] 2021-09-04 22:16:07.034 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-04 22:19:44.532 MyWebdriverEventListener:79 -> Located: T-SHIRTS
+[INFO ] 2021-09-04 22:20:56.483 MyWebdriverEventListener:90 -> Clicked on:  xpath: (//a[@title='T-shirts'])[2]]
+[INFO ] 2021-09-04 22:20:56.511 MyWebdriverEventListener:79 -> Located: $16.00 - $17.00
+[INFO ] 2021-09-04 22:20:56.547 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:56.727 MyWebdriverEventListener:79 -> Located: $16.01 - $17.00
+[INFO ] 2021-09-04 22:20:56.752 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:56.908 MyWebdriverEventListener:79 -> Located: $16.01 - $17.00
+[INFO ] 2021-09-04 22:20:56.933 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:57.079 MyWebdriverEventListener:79 -> Located: $16.02 - $17.00
+[INFO ] 2021-09-04 22:20:57.100 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:57.251 MyWebdriverEventListener:79 -> Located: $16.02 - $17.00
+[INFO ] 2021-09-04 22:20:57.270 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:57.417 MyWebdriverEventListener:79 -> Located: $16.03 - $17.00
+[INFO ] 2021-09-04 22:20:57.436 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:57.581 MyWebdriverEventListener:79 -> Located: $16.03 - $17.00
+[INFO ] 2021-09-04 22:20:57.602 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:57.758 MyWebdriverEventListener:79 -> Located: $16.04 - $17.00
+[INFO ] 2021-09-04 22:20:57.778 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:57.922 MyWebdriverEventListener:79 -> Located: $16.04 - $17.00
+[INFO ] 2021-09-04 22:20:57.941 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:58.086 MyWebdriverEventListener:79 -> Located: $16.05 - $17.00
+[INFO ] 2021-09-04 22:20:58.120 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:58.271 MyWebdriverEventListener:79 -> Located: $16.05 - $17.00
+[INFO ] 2021-09-04 22:20:58.313 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:58.474 MyWebdriverEventListener:79 -> Located: $16.06 - $17.00
+[INFO ] 2021-09-04 22:20:58.502 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:58.650 MyWebdriverEventListener:79 -> Located: $16.06 - $17.00
+[INFO ] 2021-09-04 22:20:58.668 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:58.815 MyWebdriverEventListener:79 -> Located: $16.07 - $17.00
+[INFO ] 2021-09-04 22:20:58.837 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:58.979 MyWebdriverEventListener:79 -> Located: $16.07 - $17.00
+[INFO ] 2021-09-04 22:20:58.997 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:59.149 MyWebdriverEventListener:79 -> Located: $16.08 - $17.00
+[INFO ] 2021-09-04 22:20:59.168 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:59.313 MyWebdriverEventListener:79 -> Located: $16.08 - $17.00
+[INFO ] 2021-09-04 22:20:59.333 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:59.481 MyWebdriverEventListener:79 -> Located: $16.09 - $17.00
+[INFO ] 2021-09-04 22:20:59.499 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:59.644 MyWebdriverEventListener:79 -> Located: $16.09 - $17.00
+[INFO ] 2021-09-04 22:20:59.662 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:59.807 MyWebdriverEventListener:79 -> Located: $16.10 - $17.00
+[INFO ] 2021-09-04 22:20:59.826 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:20:59.968 MyWebdriverEventListener:79 -> Located: $16.10 - $17.00
+[INFO ] 2021-09-04 22:20:59.987 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:00.134 MyWebdriverEventListener:79 -> Located: $16.11 - $17.00
+[INFO ] 2021-09-04 22:21:00.154 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:00.298 MyWebdriverEventListener:79 -> Located: $16.11 - $17.00
+[INFO ] 2021-09-04 22:21:00.316 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:00.462 MyWebdriverEventListener:79 -> Located: $16.12 - $17.00
+[INFO ] 2021-09-04 22:21:00.482 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:00.625 MyWebdriverEventListener:79 -> Located: $16.12 - $17.00
+[INFO ] 2021-09-04 22:21:00.643 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:00.787 MyWebdriverEventListener:79 -> Located: $16.13 - $17.00
+[INFO ] 2021-09-04 22:21:00.806 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:00.950 MyWebdriverEventListener:79 -> Located: $16.13 - $17.00
+[INFO ] 2021-09-04 22:21:00.971 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:01.118 MyWebdriverEventListener:79 -> Located: $16.14 - $17.00
+[INFO ] 2021-09-04 22:21:01.137 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:01.275 MyWebdriverEventListener:79 -> Located: $16.14 - $17.00
+[INFO ] 2021-09-04 22:21:01.293 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:01.436 MyWebdriverEventListener:79 -> Located: $16.15 - $17.00
+[INFO ] 2021-09-04 22:21:01.453 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:01.597 MyWebdriverEventListener:79 -> Located: $16.15 - $17.00
+[INFO ] 2021-09-04 22:21:01.617 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:01.760 MyWebdriverEventListener:79 -> Located: $16.16 - $17.00
+[INFO ] 2021-09-04 22:21:01.779 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:01.922 MyWebdriverEventListener:79 -> Located: $16.16 - $17.00
+[INFO ] 2021-09-04 22:21:01.941 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:02.083 MyWebdriverEventListener:79 -> Located: $16.17 - $17.00
+[INFO ] 2021-09-04 22:21:02.101 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:02.244 MyWebdriverEventListener:79 -> Located: $16.17 - $17.00
+[INFO ] 2021-09-04 22:21:02.261 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:02.402 MyWebdriverEventListener:79 -> Located: $16.18 - $17.00
+[INFO ] 2021-09-04 22:21:02.422 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:02.565 MyWebdriverEventListener:79 -> Located: $16.18 - $17.00
+[INFO ] 2021-09-04 22:21:02.583 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:02.730 MyWebdriverEventListener:79 -> Located: $16.19 - $17.00
+[INFO ] 2021-09-04 22:21:02.748 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:02.889 MyWebdriverEventListener:79 -> Located: $16.19 - $17.00
+[INFO ] 2021-09-04 22:21:02.908 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:03.052 MyWebdriverEventListener:79 -> Located: $16.20 - $17.00
+[INFO ] 2021-09-04 22:21:03.067 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:03.211 MyWebdriverEventListener:79 -> Located: $16.20 - $17.00
+[INFO ] 2021-09-04 22:21:03.228 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:03.369 MyWebdriverEventListener:79 -> Located: $16.21 - $17.00
+[INFO ] 2021-09-04 22:21:03.388 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:03.533 MyWebdriverEventListener:79 -> Located: $16.21 - $17.00
+[INFO ] 2021-09-04 22:21:03.551 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:03.691 MyWebdriverEventListener:79 -> Located: $16.22 - $17.00
+[INFO ] 2021-09-04 22:21:03.707 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:03.851 MyWebdriverEventListener:79 -> Located: $16.22 - $17.00
+[INFO ] 2021-09-04 22:21:03.868 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:04.010 MyWebdriverEventListener:79 -> Located: $16.23 - $17.00
+[INFO ] 2021-09-04 22:21:04.027 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:04.170 MyWebdriverEventListener:79 -> Located: $16.23 - $17.00
+[INFO ] 2021-09-04 22:21:04.187 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:04.332 MyWebdriverEventListener:79 -> Located: $16.24 - $17.00
+[INFO ] 2021-09-04 22:21:04.350 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:04.493 MyWebdriverEventListener:79 -> Located: $16.24 - $17.00
+[INFO ] 2021-09-04 22:21:04.515 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:04.660 MyWebdriverEventListener:79 -> Located: $16.25 - $17.00
+[INFO ] 2021-09-04 22:21:04.677 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:04.815 MyWebdriverEventListener:79 -> Located: $16.25 - $17.00
+[INFO ] 2021-09-04 22:21:04.833 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:04.973 MyWebdriverEventListener:79 -> Located: $16.26 - $17.00
+[INFO ] 2021-09-04 22:21:04.990 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:05.132 MyWebdriverEventListener:79 -> Located: $16.26 - $17.00
+[INFO ] 2021-09-04 22:21:05.150 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:05.290 MyWebdriverEventListener:79 -> Located: $16.27 - $17.00
+[INFO ] 2021-09-04 22:21:05.308 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:05.452 MyWebdriverEventListener:79 -> Located: $16.27 - $17.00
+[INFO ] 2021-09-04 22:21:05.470 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:05.612 MyWebdriverEventListener:79 -> Located: $16.28 - $17.00
+[INFO ] 2021-09-04 22:21:05.629 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:05.769 MyWebdriverEventListener:79 -> Located: $16.28 - $17.00
+[INFO ] 2021-09-04 22:21:05.786 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:05.929 MyWebdriverEventListener:79 -> Located: $16.29 - $17.00
+[INFO ] 2021-09-04 22:21:05.950 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:06.091 MyWebdriverEventListener:79 -> Located: $16.29 - $17.00
+[INFO ] 2021-09-04 22:21:06.108 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:06.255 MyWebdriverEventListener:79 -> Located: $16.30 - $17.00
+[INFO ] 2021-09-04 22:21:06.272 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:06.414 MyWebdriverEventListener:79 -> Located: $16.30 - $17.00
+[INFO ] 2021-09-04 22:21:06.430 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:06.571 MyWebdriverEventListener:79 -> Located: $16.31 - $17.00
+[INFO ] 2021-09-04 22:21:06.589 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:06.732 MyWebdriverEventListener:79 -> Located: $16.31 - $17.00
+[INFO ] 2021-09-04 22:21:06.753 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:06.893 MyWebdriverEventListener:79 -> Located: $16.32 - $17.00
+[INFO ] 2021-09-04 22:21:06.910 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:07.051 MyWebdriverEventListener:79 -> Located: $16.32 - $17.00
+[INFO ] 2021-09-04 22:21:07.068 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:07.212 MyWebdriverEventListener:79 -> Located: $16.33 - $17.00
+[INFO ] 2021-09-04 22:21:07.228 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:07.371 MyWebdriverEventListener:79 -> Located: $16.33 - $17.00
+[INFO ] 2021-09-04 22:21:07.388 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:07.532 MyWebdriverEventListener:79 -> Located: $16.34 - $17.00
+[INFO ] 2021-09-04 22:21:07.551 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:07.691 MyWebdriverEventListener:79 -> Located: $16.34 - $17.00
+[INFO ] 2021-09-04 22:21:07.709 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:07.851 MyWebdriverEventListener:79 -> Located: $16.35 - $17.00
+[INFO ] 2021-09-04 22:21:07.868 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:08.009 MyWebdriverEventListener:79 -> Located: $16.35 - $17.00
+[INFO ] 2021-09-04 22:21:08.032 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:08.173 MyWebdriverEventListener:79 -> Located: $16.36 - $17.00
+[INFO ] 2021-09-04 22:21:08.189 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:08.334 MyWebdriverEventListener:79 -> Located: $16.36 - $17.00
+[INFO ] 2021-09-04 22:21:08.353 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:08.493 MyWebdriverEventListener:79 -> Located: $16.37 - $17.00
+[INFO ] 2021-09-04 22:21:08.509 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:08.650 MyWebdriverEventListener:79 -> Located: $16.37 - $17.00
+[INFO ] 2021-09-04 22:21:08.668 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:08.809 MyWebdriverEventListener:79 -> Located: $16.38 - $17.00
+[INFO ] 2021-09-04 22:21:08.827 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:08.969 MyWebdriverEventListener:79 -> Located: $16.38 - $17.00
+[INFO ] 2021-09-04 22:21:08.988 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:09.132 MyWebdriverEventListener:79 -> Located: $16.39 - $17.00
+[INFO ] 2021-09-04 22:21:09.152 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:09.293 MyWebdriverEventListener:79 -> Located: $16.39 - $17.00
+[INFO ] 2021-09-04 22:21:09.310 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:09.451 MyWebdriverEventListener:79 -> Located: $16.40 - $17.00
+[INFO ] 2021-09-04 22:21:09.468 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:09.611 MyWebdriverEventListener:79 -> Located: $16.40 - $17.00
+[INFO ] 2021-09-04 22:21:09.629 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:09.775 MyWebdriverEventListener:79 -> Located: $16.41 - $17.00
+[INFO ] 2021-09-04 22:21:09.793 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:09.932 MyWebdriverEventListener:79 -> Located: $16.41 - $17.00
+[INFO ] 2021-09-04 22:21:09.950 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:10.091 MyWebdriverEventListener:79 -> Located: $16.42 - $17.00
+[INFO ] 2021-09-04 22:21:10.109 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:10.250 MyWebdriverEventListener:79 -> Located: $16.42 - $17.00
+[INFO ] 2021-09-04 22:21:10.267 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:10.409 MyWebdriverEventListener:79 -> Located: $16.43 - $17.00
+[INFO ] 2021-09-04 22:21:10.425 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:10.568 MyWebdriverEventListener:79 -> Located: $16.43 - $17.00
+[INFO ] 2021-09-04 22:21:10.586 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:10.727 MyWebdriverEventListener:79 -> Located: $16.44 - $17.00
+[INFO ] 2021-09-04 22:21:10.744 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:10.884 MyWebdriverEventListener:79 -> Located: $16.44 - $17.00
+[INFO ] 2021-09-04 22:21:10.900 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:11.042 MyWebdriverEventListener:79 -> Located: $16.45 - $17.00
+[INFO ] 2021-09-04 22:21:11.057 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:11.199 MyWebdriverEventListener:79 -> Located: $16.45 - $17.00
+[INFO ] 2021-09-04 22:21:11.218 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:11.363 MyWebdriverEventListener:79 -> Located: $16.46 - $17.00
+[INFO ] 2021-09-04 22:21:11.383 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:11.527 MyWebdriverEventListener:79 -> Located: $16.46 - $17.00
+[INFO ] 2021-09-04 22:21:11.543 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:11.681 MyWebdriverEventListener:79 -> Located: $16.47 - $17.00
+[INFO ] 2021-09-04 22:21:11.699 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:11.843 MyWebdriverEventListener:79 -> Located: $16.47 - $17.00
+[INFO ] 2021-09-04 22:21:11.860 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:11.999 MyWebdriverEventListener:79 -> Located: $16.48 - $17.00
+[INFO ] 2021-09-04 22:21:12.019 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:12.161 MyWebdriverEventListener:79 -> Located: $16.48 - $17.00
+[INFO ] 2021-09-04 22:21:12.179 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:12.319 MyWebdriverEventListener:79 -> Located: $16.49 - $17.00
+[INFO ] 2021-09-04 22:21:12.336 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:12.478 MyWebdriverEventListener:79 -> Located: $16.49 - $17.00
+[INFO ] 2021-09-04 22:21:12.494 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-04 22:21:12.637 MyWebdriverEventListener:79 -> Located: $16.50 - $17.00
+[INFO ] 2021-09-08 16:42:23.045 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-08 16:42:37.011 MyWebdriverEventListener:35 -> Navigate to: https://login.live.com/
+[INFO ] 2021-09-08 16:42:41.337 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-08 16:42:41.525 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-08 16:42:41.567 MyWebdriverEventListener:90 -> Clicked on:  xpath: //input[@type='submit']]
+[INFO ] 2021-09-08 16:43:35.971 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-08 16:43:57.241 MyWebdriverEventListener:35 -> Navigate to: https://login.live.com/
+[INFO ] 2021-09-08 16:44:00.601 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-08 16:44:00.769 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-08 16:44:00.815 MyWebdriverEventListener:90 -> Clicked on:  xpath: //input[@type='submit']]
+[INFO ] 2021-09-08 16:44:35.889 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-08 16:44:49.705 MyWebdriverEventListener:35 -> Navigate to: https://login.live.com/
+[INFO ] 2021-09-08 16:44:51.798 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-08 16:44:51.967 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-08 16:44:52.014 MyWebdriverEventListener:90 -> Clicked on:  xpath: //input[@type='submit']]
+[INFO ] 2021-09-08 16:44:52.315 MyWebdriverEventListener:79 -> Located: That Microsoft account doesn’t exist. Enter a different account or get a new one.
+[INFO ] 2021-09-08 16:51:49.514 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-08 16:52:04.460 MyWebdriverEventListener:35 -> Navigate to: http://demo.guru99.com/test/guru99home/
+[INFO ] 2021-09-08 16:54:02.467 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-08 16:54:17.258 MyWebdriverEventListener:35 -> Navigate to: http://demo.guru99.com/test/guru99home/
+[INFO ] 2021-09-08 16:56:33.666 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-08 16:56:49.142 MyWebdriverEventListener:35 -> Navigate to: http://demo.guru99.com/test/guru99home/
+[INFO ] 2021-09-08 16:56:57.361 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-08 16:57:58.111 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-08 16:58:10.220 MyWebdriverEventListener:35 -> Navigate to: http://demo.guru99.com/test/guru99home/
+[INFO ] 2021-09-08 19:53:58.040 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-08 19:54:08.531 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-08 19:54:08.614 MyWebdriverEventListener:90 -> Clicked on:  xpath: //li[@class='twitter']]
+[INFO ] 2021-09-08 19:58:09.462 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-08 19:58:19.155 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-08 19:58:19.222 MyWebdriverEventListener:90 -> Clicked on:  xpath: //li[@class='twitter']]
+[INFO ] 2021-09-08 19:58:22.928 MyWebdriverEventListener:79 -> Located: Selenium Framework
+@seleniumfrmwrk
+[INFO ] 2021-09-08 19:59:10.418 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-08 19:59:18.361 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-08 19:59:18.437 MyWebdriverEventListener:90 -> Clicked on:  xpath: //li[@class='twitter']]
+[INFO ] 2021-09-08 19:59:22.307 MyWebdriverEventListener:79 -> Located: Selenium Framework
+@seleniumfrmwrk
+[INFO ] 2021-09-08 20:01:26.156 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-08 20:01:35.797 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-08 20:01:35.866 MyWebdriverEventListener:90 -> Clicked on:  xpath: //li[@class='twitter']]
+[INFO ] 2021-09-08 20:01:39.658 MyWebdriverEventListener:79 -> Located: Selenium Framework
+@seleniumfrmwrk
+[INFO ] 2021-09-08 20:01:39.714 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-08 20:02:09.103 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-08 20:02:17.070 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-08 20:02:17.152 MyWebdriverEventListener:90 -> Clicked on:  xpath: //li[@class='twitter']]
+[INFO ] 2021-09-08 20:02:20.832 MyWebdriverEventListener:79 -> Located: Selenium Framework
+@seleniumfrmwrk
+[INFO ] 2021-09-08 20:03:46.920 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-08 20:03:58.079 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-08 20:03:58.152 MyWebdriverEventListener:90 -> Clicked on:  xpath: //li[@class='twitter']]
+[INFO ] 2021-09-08 20:05:06.290 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-08 20:05:14.062 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-08 20:05:14.136 MyWebdriverEventListener:90 -> Clicked on:  xpath: //li[@class='twitter']]
+[INFO ] 2021-09-08 20:05:18.044 MyWebdriverEventListener:79 -> Located: Selenium Framework
+@seleniumfrmwrk
+[INFO ] 2021-09-08 20:05:18.151 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-08 20:09:34.400 MyWebdriverEventListener:35 -> Navigate to: http://automationpractice.com/index.php
+[INFO ] 2021-09-08 20:09:42.726 MyWebdriverEventListener:79 -> Located: 
+[INFO ] 2021-09-08 20:09:42.820 MyWebdriverEventListener:90 -> Clicked on:  xpath: //li[@class='twitter']]
+[INFO ] 2021-09-08 20:09:46.660 MyWebdriverEventListener:79 -> Located: Selenium Framework
+@seleniumfrmwrk
+[INFO ] 2021-09-08 20:09:46.764 MyWebdriverEventListener:79 -> Located: 

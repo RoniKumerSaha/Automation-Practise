@@ -1,6 +1,7 @@
 package cucumber.steps;
 import automation.pages.HomePage;
 import automation.pages.ProductDetailsPage;
+import automation.pages.SocialMediaPage;
 import automation.utils.DriverSetup;
 import cucumber.api.PendingException;
 import cucumber.api.java.en.And;
@@ -32,5 +33,21 @@ public class HomeTestSteps extends DriverSetup {
     @Then("^I should see details of the product \"([^\"]*)\"$")
     public void iShouldSeeDetailsOfTheProduct(String product) {
         Assert.assertTrue(new ProductDetailsPage().getProductName().contains(product));
+    }
+
+    @When("^I click on twitter link$")
+    public void iClickOnYoutubeLink() {
+        new HomePage().clickLink();
+    }
+
+    @Then("^I should see the youtube channel of the site$")
+    public void iShouldSeeTheYoutubeChannelOfTheSite() {
+
+        new SocialMediaPage().switchToNewTab();
+        Assert.assertTrue(new SocialMediaPage().getAccountName().contains("Selenium Framework"));
+
+        new SocialMediaPage().closeTab();
+        new HomePage().switchToMainWindow();
+        Assert.assertTrue(new HomePage().twitterLink.isDisplayed());
     }
 }

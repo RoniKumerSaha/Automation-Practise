@@ -1,6 +1,5 @@
 package automation.utils;
 
-import automation.pages.HomePage;
 import cucumber.api.Scenario;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -8,8 +7,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
-import automation.utils.Browser;
-import automation.utils.MyWebdriverEventListener;
 
 import java.io.File;
 import java.io.IOException;
@@ -28,7 +25,7 @@ public class DriverSetup {
         ChromeOptions options = new ChromeOptions();
         options.setHeadless(false);
         driver = new ChromeDriver(options);
-        driver.manage().timeouts().implicitlyWait(Browser.TIMEOUT, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
         driver = setEventListener(driver);
         driver.get(Browser.URL);
        // homePage = new HomePage(driver);
