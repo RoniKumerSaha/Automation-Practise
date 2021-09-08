@@ -53,6 +53,7 @@ public class HomePage extends BasePage {
     public void increaseValue(){
         while (!valueRange.getText().contains("$16.50 - $17.00")){
             slider.sendKeys(Keys.ARROW_RIGHT);
+            wait(23);
         }
     }
 
