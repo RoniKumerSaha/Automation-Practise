@@ -10,6 +10,7 @@ public class SocialMediaPage extends BasePage{
     WebElement twitterAccountName;
 
     public String getAccountName(){
+        wait(2);
         return twitterAccountName.getText();
     }
 

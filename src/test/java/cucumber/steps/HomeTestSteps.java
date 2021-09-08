@@ -40,7 +40,7 @@ public class HomeTestSteps extends DriverSetup {
         new HomePage().clickLink();
     }
 
-    @Then("^I should see the youtube channel of the site$")
+    @Then("^I should see the Twitter account name of the site$")
     public void iShouldSeeTheYoutubeChannelOfTheSite() {
 
         new SocialMediaPage().switchToNewTab();

@@ -14,7 +14,7 @@ Feature: Home Page Feature
     | Dresses  | Printed Dress              |
     | T-shirts | Faded Short Sleeve T-shirts|
 
-  Scenario: User can visit youtube channel of the site
+  Scenario: User can visit twitter account of the site
     Given I am on Home Page
     When I click on twitter link
-    Then I should see the youtube channel of the site
+    Then I should see the Twitter account name of the site

@@ -8,7 +8,7 @@ public class IframePage extends BasePage{
     WebElement elementInsideIframe;
 
     public boolean elementDisplayed() {
-        //switchToIframe("a077aa5e");
+        switchToIframe("a077aa5e");
         return elementInsideIframe.isDisplayed();
     }
 
